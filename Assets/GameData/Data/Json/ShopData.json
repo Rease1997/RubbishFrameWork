@@ -1,0 +1,485 @@
+﻿{
+	"data": 
+[
+	{
+		"ID" : 1001,
+		"Name" : "装备1",
+		"Des" : "“装备1”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00430"
+	},
+	{
+		"ID" : 1002,
+		"Name" : "装备2",
+		"Des" : "“装备2”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00431"
+	},
+	{
+		"ID" : 1003,
+		"Name" : "装备3",
+		"Des" : "“装备3”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00432"
+	},
+	{
+		"ID" : 1004,
+		"Name" : "装备4",
+		"Des" : "“装备4”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00433"
+	},
+	{
+		"ID" : 1005,
+		"Name" : "装备5",
+		"Des" : "“装备5”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00434"
+	},
+	{
+		"ID" : 1006,
+		"Name" : "装备6",
+		"Des" : "“装备6”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00435"
+	},
+	{
+		"ID" : 1007,
+		"Name" : "装备7",
+		"Des" : "“装备7”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00436"
+	},
+	{
+		"ID" : 1008,
+		"Name" : "装备8",
+		"Des" : "“装备8”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00437"
+	},
+	{
+		"ID" : 1009,
+		"Name" : "装备9",
+		"Des" : "“装备9”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00438"
+	},
+	{
+		"ID" : 1010,
+		"Name" : "装备10",
+		"Des" : "“装备10”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00439"
+	},
+	{
+		"ID" : 1011,
+		"Name" : "装备11",
+		"Des" : "“装备11”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00440"
+	},
+	{
+		"ID" : 1012,
+		"Name" : "装备12",
+		"Des" : "“装备12”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00441"
+	},
+	{
+		"ID" : 1013,
+		"Name" : "装备13",
+		"Des" : "“装备13”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00442"
+	},
+	{
+		"ID" : 1014,
+		"Name" : "装备14",
+		"Des" : "“装备14”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00443"
+	},
+	{
+		"ID" : 1015,
+		"Name" : "装备15",
+		"Des" : "“装备15”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00444"
+	},
+	{
+		"ID" : 1016,
+		"Name" : "装备16",
+		"Des" : "“装备16”的详细物品描述",
+		"Type" : 1,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00445"
+	},
+	{
+		"ID" : 1017,
+		"Name" : "服装1",
+		"Des" : "“服装1”的详细物品描述",
+		"Type" : 2,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00446"
+	},
+	{
+		"ID" : 1018,
+		"Name" : "服装2",
+		"Des" : "“服装2”的详细物品描述",
+		"Type" : 2,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00447"
+	},
+	{
+		"ID" : 1019,
+		"Name" : "服装3",
+		"Des" : "“服装3”的详细物品描述",
+		"Type" : 2,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00448"
+	},
+	{
+		"ID" : 1020,
+		"Name" : "服装4",
+		"Des" : "“服装4”的详细物品描述",
+		"Type" : 2,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00449"
+	},
+	{
+		"ID" : 1021,
+		"Name" : "服装5",
+		"Des" : "“服装5”的详细物品描述",
+		"Type" : 2,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00430"
+	},
+	{
+		"ID" : 1022,
+		"Name" : "服装6",
+		"Des" : "“服装6”的详细物品描述",
+		"Type" : 2,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00431"
+	},
+	{
+		"ID" : 1023,
+		"Name" : "宝箱1",
+		"Des" : "“宝箱1”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00432"
+	},
+	{
+		"ID" : 1024,
+		"Name" : "宝箱2",
+		"Des" : "“宝箱2”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00433"
+	},
+	{
+		"ID" : 1025,
+		"Name" : "宝箱3",
+		"Des" : "“宝箱3”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00434"
+	},
+	{
+		"ID" : 1026,
+		"Name" : "宝箱4",
+		"Des" : "“宝箱4”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00435"
+	},
+	{
+		"ID" : 1027,
+		"Name" : "宝箱5",
+		"Des" : "“宝箱5”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00436"
+	},
+	{
+		"ID" : 1028,
+		"Name" : "宝箱6",
+		"Des" : "“宝箱6”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00437"
+	},
+	{
+		"ID" : 1029,
+		"Name" : "宝箱7",
+		"Des" : "“宝箱7”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00438"
+	},
+	{
+		"ID" : 1030,
+		"Name" : "宝箱8",
+		"Des" : "“宝箱8”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00439"
+	},
+	{
+		"ID" : 1031,
+		"Name" : "宝箱9",
+		"Des" : "“宝箱9”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00440"
+	},
+	{
+		"ID" : 1032,
+		"Name" : "宝箱10",
+		"Des" : "“宝箱10”的详细物品描述",
+		"Type" : 3,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00441"
+	},
+	{
+		"ID" : 1033,
+		"Name" : "优惠券1",
+		"Des" : "“优惠券1”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00442"
+	},
+	{
+		"ID" : 1034,
+		"Name" : "优惠券2",
+		"Des" : "“优惠券2”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00443"
+	},
+	{
+		"ID" : 1035,
+		"Name" : "优惠券3",
+		"Des" : "“优惠券3”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00444"
+	},
+	{
+		"ID" : 1036,
+		"Name" : "优惠券4",
+		"Des" : "“优惠券4”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00445"
+	},
+	{
+		"ID" : 1037,
+		"Name" : "优惠券5",
+		"Des" : "“优惠券5”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00446"
+	},
+	{
+		"ID" : 1038,
+		"Name" : "优惠券6",
+		"Des" : "“优惠券6”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00447"
+	},
+	{
+		"ID" : 1039,
+		"Name" : "优惠券7",
+		"Des" : "“优惠券7”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00448"
+	},
+	{
+		"ID" : 1040,
+		"Name" : "优惠券8",
+		"Des" : "“优惠券8”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00449"
+	},
+	{
+		"ID" : 1041,
+		"Name" : "优惠券9",
+		"Des" : "“优惠券9”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00430"
+	},
+	{
+		"ID" : 1042,
+		"Name" : "优惠券10",
+		"Des" : "“优惠券10”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00431"
+	},
+	{
+		"ID" : 1043,
+		"Name" : "优惠券11",
+		"Des" : "“优惠券11”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00432"
+	},
+	{
+		"ID" : 1044,
+		"Name" : "优惠券12",
+		"Des" : "“优惠券12”的详细物品描述",
+		"Type" : 4,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00433"
+	},
+	{
+		"ID" : 1045,
+		"Name" : "经验卡1",
+		"Des" : "“经验卡1”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00434"
+	},
+	{
+		"ID" : 1046,
+		"Name" : "经验卡2",
+		"Des" : "“经验卡2”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00435"
+	},
+	{
+		"ID" : 1047,
+		"Name" : "经验卡3",
+		"Des" : "“经验卡3”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00436"
+	},
+	{
+		"ID" : 1048,
+		"Name" : "经验卡4",
+		"Des" : "“经验卡4”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00437"
+	},
+	{
+		"ID" : 1049,
+		"Name" : "经验卡5",
+		"Des" : "“经验卡5”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00438"
+	},
+	{
+		"ID" : 1050,
+		"Name" : "体验卡1",
+		"Des" : "“体验卡1”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00439"
+	},
+	{
+		"ID" : 1051,
+		"Name" : "体验卡2",
+		"Des" : "“体验卡2”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00440"
+	},
+	{
+		"ID" : 1052,
+		"Name" : "体验卡3",
+		"Des" : "“体验卡3”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00441"
+	},
+	{
+		"ID" : 1053,
+		"Name" : "体验卡4",
+		"Des" : "“体验卡4”的详细物品描述",
+		"Type" : 5,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00442"
+	},
+	{
+		"ID" : 1054,
+		"Name" : "局内效果1",
+		"Des" : "“局内效果1”的详细物品描述",
+		"Type" : 6,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00443"
+	},
+	{
+		"ID" : 1055,
+		"Name" : "局内效果2",
+		"Des" : "“局内效果2”的详细物品描述",
+		"Type" : 6,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00444"
+	},
+	{
+		"ID" : 1056,
+		"Name" : "局内效果3",
+		"Des" : "“局内效果3”的详细物品描述",
+		"Type" : 6,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00445"
+	},
+	{
+		"ID" : 1057,
+		"Name" : "局内效果4",
+		"Des" : "“局内效果4”的详细物品描述",
+		"Type" : 6,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00446"
+	},
+	{
+		"ID" : 1058,
+		"Name" : "局内效果5",
+		"Des" : "“局内效果5”的详细物品描述",
+		"Type" : 6,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00447"
+	},
+	{
+		"ID" : 1059,
+		"Name" : "局内效果6",
+		"Des" : "“局内效果6”的详细物品描述",
+		"Type" : 6,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00448"
+	},
+	{
+		"ID" : 1060,
+		"Name" : "局内效果7",
+		"Des" : "“局内效果7”的详细物品描述",
+		"Type" : 6,
+		"ImgPath" : "Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png",
+		"ImgName" : "00449"
+	}
+]
+}

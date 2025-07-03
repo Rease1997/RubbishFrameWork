@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:7c8deeeaacb3c0f79300b1158ed8cd61:08bf214e5bb702462f49aa67a944f1a3:24e304240c25005a51a1c1eb5596b7a3$
+#
+:format=40300
+:texture=PayPanel.png
+:size=256x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+AddBtn;1;89;34;34; 0.5;0.5; 0;0;0;0; 4;34;0;0;0;0;34;34;34; 2;1;2;3;0;1;3
+AlipayIcon;1;55;32;32; 0.5;0.5; 0;0;0;0; 4;32;0;0;0;0;32;32;32; 2;1;2;3;0;1;3
+PaymentArrowBtn;71;101;14;22; 0.42857142857142855;0.5; 0;0;0;0; 5;14;11;3;0;0;3;0;19;3;22; 3;0;3;4;0;1;2;0;2;3
+PaymentCheckBtn;69;59;30;30; 0.5;0.5; 0;0;0;0; 4;30;0;0;0;0;30;30;30; 2;1;2;3;0;1;3
+PaymentUncheckedBtn;1;21;32;32; 0.5;0.5; 0;0;0;0; 6;32;0;8;0;2;2;0;8;0;32;32;32; 4;3;4;5;1;3;5;1;2;3;0;1;5
+ReduceBtn;1;9;34;10; 0.5;0.5; 0;0;0;0; 4;34;0;0;0;0;10;34;10; 2;1;2;3;0;1;3
+ShandepayIcon;35;55;32;32; 0.5;0.5; 0;0;0;0; 5;32;31;32;0;0;0;0;32;31;32; 3;2;3;4;0;1;2;0;2;4
+TongtongpayIcon;35;21;32;32; 0.5;0.5; 0;0;0;0; 4;32;0;0;0;0;32;32;32; 2;1;2;3;0;1;3
+WaitingImg;1;125;130;130; 0.5;0.5; 0;0;0;0; 8;130;128;130;2;128;0;2;0;0;2;0;128;2;130;128;130; 6;5;6;7;4;5;7;3;4;7;2;3;7;1;2;7;0;1;7
+WechatpayIcon;37;91;32;32; 0.5;0.5; 0;0;0;0; 4;32;0;0;0;0;32;32;32; 2;1;2;3;0;1;3

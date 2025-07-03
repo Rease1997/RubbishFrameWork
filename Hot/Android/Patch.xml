@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pathces xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1">
+  <Files Name="Android" Url="http://192.168.175.174:8080/AssetBundle/1.0/1/Android" Platform="Android" Md5="ff1033d80130f24705f6c79177427254" Size="1.96289063" />
+  <Files Name="assetbundleconfig" Url="http://192.168.175.174:8080/AssetBundle/1.0/1/assetbundleconfig" Platform="Android" Md5="4e9488c4ae41dfc9137d6edc9c69c418" Size="2.57226563" />
+</Pathces>

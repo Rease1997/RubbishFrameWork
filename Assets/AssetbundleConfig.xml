@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetBundleConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ABList Path="Assets/GameData/Prefabs/Model/Attack.prefab" Crc="2240182107" ABName="attack" AsseetName="Attack.prefab">
+    <ABDependce>ui</ABDependce>
+    <ABDependce>shaders</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Prefabs/UI/Panel/CityPanel.prefab" Crc="865668884" ABName="citypanel" AsseetName="CityPanel.prefab" />
+  <ABList Path="Assets/GameData/Prefabs/Model/Cube.prefab" Crc="59952719" ABName="cube" AsseetName="Cube.prefab" />
+  <ABList Path="Assets/GameData/Prefabs/Model/Cylinder.prefab" Crc="1891761511" ABName="cylinder" AsseetName="Cylinder.prefab" />
+  <ABList Path="Assets/GameData/Data/ABData/AssetBundleConfig.bytes" Crc="3433850972" ABName="data" AsseetName="AssetBundleConfig.bytes" />
+  <ABList Path="Assets/GameData/Data/Binary/BuffData.bytes" Crc="697814829" ABName="data" AsseetName="BuffData.bytes" />
+  <ABList Path="Assets/GameData/Data/Binary/SkillData.bytes" Crc="2866235264" ABName="data" AsseetName="SkillData.bytes" />
+  <ABList Path="Assets/GameData/Data/Excel/ShopData.xlsx" Crc="1585635011" ABName="data" AsseetName="ShopData.xlsx" />
+  <ABList Path="Assets/GameData/Data/Json/ShopData.json" Crc="3233824639" ABName="data" AsseetName="ShopData.json" />
+  <ABList Path="Assets/GameData/Data/Xml/BuffData.xml" Crc="3962553630" ABName="data" AsseetName="BuffData.xml" />
+  <ABList Path="Assets/GameData/Data/Xml/SkillData.xml" Crc="3187037726" ABName="data" AsseetName="SkillData.xml" />
+  <ABList Path="Assets/GameData/Data/HotFix/HotFix.dll.bytes" Crc="2368320480" ABName="hotfix" AsseetName="HotFix.dll.bytes" />
+  <ABList Path="Assets/GameData/Prefabs/UI/Panel/LoadingPanel.prefab" Crc="743840005" ABName="loadingpanel" AsseetName="LoadingPanel.prefab">
+    <ABDependce>ui</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Prefabs/UI/Panel/MainPanel.prefab" Crc="3299793293" ABName="mainpanel" AsseetName="MainPanel.prefab" />
+  <ABList Path="Assets/GameData/Prefabs/UI/Panel/MenuPanel.prefab" Crc="2026966871" ABName="menupanel" AsseetName="MenuPanel.prefab" />
+  <ABList Path="Assets/GameData/Prefabs/UI/Panel/MonthCardPanel.prefab" Crc="1811396924" ABName="monthcardpanel" AsseetName="MonthCardPanel.prefab" />
+  <ABList Path="Assets/GameData/Shaders/benghuai.shader" Crc="2153760648" ABName="shaders" AsseetName="benghuai.shader" />
+  <ABList Path="Assets/GameData/Shaders/Skybox.shader" Crc="2040549738" ABName="shaders" AsseetName="Skybox.shader" />
+  <ABList Path="Assets/GameData/Shaders/Water.shader" Crc="3794094069" ABName="shaders" AsseetName="Water.shader" />
+  <ABList Path="Assets/GameData/Shaders/Xray.shader" Crc="2720758644" ABName="shaders" AsseetName="Xray.shader" />
+  <ABList Path="Assets/GameData/Sounds/menusound.mp3" Crc="1701716301" ABName="sounds" AsseetName="menusound.mp3" />
+  <ABList Path="Assets/GameData/Sounds/senlin.mp3" Crc="662225670" ABName="sounds" AsseetName="senlin.mp3" />
+  <ABList Path="Assets/GameData/Prefabs/Model/TestPanel.prefab" Crc="2095034077" ABName="testpanel" AsseetName="TestPanel.prefab">
+    <ABDependce>ui</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Prefabs/UI/Panel/TipsPanel.prefab" Crc="196354242" ABName="tipspanel" AsseetName="TipsPanel.prefab">
+    <ABDependce>mainpanel</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Prefabs/Model/TK.prefab" Crc="2539604473" ABName="tk" AsseetName="TK.prefab" />
+  <ABList Path="Assets/GameData/UI/9_Normal 1.png" Crc="1616617538" ABName="ui" AsseetName="9_Normal 1.png" />
+  <ABList Path="Assets/GameData/UI/ID_368.bmp" Crc="725767784" ABName="ui" AsseetName="ID_368.bmp" />
+  <ABList Path="Assets/GameData/UI/ID_401.bmp" Crc="900524426" ABName="ui" AsseetName="ID_401.bmp" />
+  <ABList Path="Assets/GameData/UI/shadow_tentaclyorb.png" Crc="1115573912" ABName="ui" AsseetName="shadow_tentaclyorb.png" />
+</AssetBundleConfig>

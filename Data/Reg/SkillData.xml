@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data name="SkillData" from="MySkill.xlsx" to="SkillData.xml">
+  <variable name="AllSkillList" type="list">
+    <list name="SkillBase" sheetname="SkillData" mainKey="Id">
+      <variable name="Id" col="id" type="int"/>
+      <variable name="SkillName" col="技能名称" type="string" defaultValue="null"/>
+      <variable name="SkillIcon" col="技能图标" type="string" defaultValue="null"/>
+      <variable name="SkillType" col="技能类型(1普通 2技能 3怒气)" type="enum"/>
+      <variable name="Skillpriority" col="技能伤害优先级" type="int"/>
+      <variable name="Skillenergy" col="技能释放所需要的能量" type="int"/>
+      <variable name="AttDis" col="攻击距离" type="float"/>
+      <variable name="HitType" col="击中类型(0:对敌方目标 1:敌方范围 2:友方目标 3:友方范围 4:自己)" type="enum"/>
+      <variable name="AttRangeType" col="攻击范围类型(0对目标 1圆形 2扇形 3:正前方)" type="enum"/>
+      <variable name="DamageNum" col="伤害数" type="int"/>
+      <variable name="AttRange" col="攻击范围" type="float"/>
+      <variable name="Angle" col="角度" type="int"/>
+      <variable name="BpNeed" col="BpNeed" type="int"/>
+      <variable name="Guard" col="警戒" type="float"/>
+      <variable name="Para" col="Para" type="bool"/>
+      <variable name="Para1" col="Para1" type="float"/>
+      <variable name="Para2" col="Para2" type="float"/>
+      <variable name="Para3" col="Para3" type="float"/>
+      <variable name="Para4" col="Para4" type="float"/>
+      <variable name="Para5" col="Para5" type="float"/>
+      <variable name="SkillHitCount" col="SkillHitCount" type="int"/>
+      <variable name="Damagecoefficient1" col="伤害系数1" type="int"/>
+      <variable name="Damagecoefficient2" col="伤害系数2" type="int"/>
+      <variable name="Damagecoefficient3" col="伤害系数3" type="int"/>
+      <variable name="DamegeTypeList" col="伤害分类" type="listStr" split=";"/>
+      <variable name="HitedEffect" col="受击特效" type="listInt" split=";"/>
+      <variable name="BuffList" col="Buff列表" type="listStr" split=";"/>
+      <variable name="Desc" col="Desc" type="int"/>
+    </list>
+  </variable>
+</data>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data name="BuffData" from="MyBuff.xlsx" to="BuffData.xml">
+<variable name="AllBuffList" type="list">
+<list name="BuffBase" sheetname="我的表格" mainKey="Id">
+<variable name="Id" col="ID" type="int"/>
+<variable name="Name" col="名字" type="string" defaultValue="null"/>
+<variable name="OutLook" col="预知路径" type="string"/>
+<variable name="Time" col="时长" type="float"/>
+<variable name="BuffType" col="枚举" type="enum"/>
+<variable name="AllString" col="基本类型集合" type="listStr" split="|"/>
+<variable name="AllBuffList"  type="list" foregin="ID">
+<list name="BuffTest" sheetname="类">
+<variable name="Id" col="TestID" type="int"/>
+ <variable name="Name" col="名字" type="string"/>
+</list>
+</variable>
+</list>
+</variable>
+</data>

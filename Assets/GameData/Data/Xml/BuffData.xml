@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuffData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AllBuffList Id="1" Name="全BUFF0" OutLook="Assets/GameData/...0" Time="2.94395" BuffType="Bingdong">
+    <AllString>ceshi0</AllString>
+    <AllString>ceshiq0</AllString>
+    <AllBuffList Id="2" Name="name0" />
+  </AllBuffList>
+  <AllBuffList Id="2" Name="全BUFF1" OutLook="Assets/GameData/...1" Time="6.055412" BuffType="Du">
+    <AllString>ceshi1</AllString>
+    <AllString>ceshiq1</AllString>
+    <AllBuffList Id="1" Name="name0" />
+  </AllBuffList>
+  <AllBuffList Id="3" Name="全BUFF0" OutLook="Assets/GameData/...0" Time="2.94395" BuffType="Bingdong">
+    <AllString>ceshi0</AllString>
+    <AllString>ceshiq0</AllString>
+  </AllBuffList>
+  <AllBuffList Id="4" Name="全BUFF1" OutLook="Assets/GameData/...1" Time="6.055412" BuffType="Du">
+    <AllString>ceshi1</AllString>
+    <AllString>ceshiq1</AllString>
+  </AllBuffList>
+</BuffData>

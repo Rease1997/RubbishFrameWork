@@ -1,0 +1,35 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/Common.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/GameListPanel.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/GamePanel.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/MainPanel.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/ParticuarsPanel.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/PayPanel.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/SettlementPanel.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/SharePanel.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/Common.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/GameListPanel.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/GamePanel.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/Icon.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/MainPanel.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/ParticuarsPanel.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/PayPanel.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/SettlementPanel.png
+- Assets/GameData/ScriptAtlas/Atlas/UI1.0/SharePanel.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

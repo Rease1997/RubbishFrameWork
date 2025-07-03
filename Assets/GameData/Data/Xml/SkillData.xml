@@ -1,0 +1,1417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SkillData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AllSkillList Id="10001" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="1" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="1" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10002" SkillName="天诛" SkillIcon="cike_1b" SkillType="AttackSkill" Skillpriority="3" Skillenergy="1" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="2" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="2" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10003" SkillName="三连斩" SkillIcon="cike_2b" SkillType="AttackSkill" Skillpriority="0" Skillenergy="2" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5" Para="true" Para1="140" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="3" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="3" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10004" SkillName="禁魂之轮" SkillIcon="cike_3b" SkillType="AttackSkill" Skillpriority="0" Skillenergy="3" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5" Para="false" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="5" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10005" SkillName="圆月斩" SkillIcon="cike_4b" SkillType="AttackSkill" Skillpriority="0" Skillenergy="4" AttDis="10" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10.1" Angle="180" BpNeed="0" Guard="10" Para="false" Para1="100" Para2="1" Para3="0.9" Para4="0" Para5="0" SkillHitCount="3" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10006" SkillName="瞬狱五星斩" SkillIcon="cike_5b" SkillType="SuperSkill" Skillpriority="3" Skillenergy="4" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5" Para="true" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="15" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10007" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="100" Para2="0" Para3="1.3" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10008" SkillName="回旋之舞" SkillIcon="youxia_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="7" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>6</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10009" SkillName="处决" SkillIcon="youxia_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="4.5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="6" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>8</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10010" SkillName="毒爆射击" SkillIcon="youxia_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="8.5" Para="false" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10011" SkillName="爆炸箭矢" SkillIcon="youxia_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10" Para="false" Para1="220" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10012" SkillName="流星箭矢" SkillIcon="youxia_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="10" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="400" Para2="0" Para3="1.7" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10013" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10035</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10014" SkillName="冰冻监狱" SkillIcon="binshuangfashi_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>10038</HitedEffect>
+    <BuffList>90003</BuffList>
+    <BuffList>90023</BuffList>
+    <BuffList>90009</BuffList>
+    <BuffList>90026</BuffList>
+    <BuffList>90029</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10015" SkillName="冰息术" SkillIcon="binshuangfashi_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="11" Para="false" Para1="200" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>90004</BuffList>
+    <BuffList>90010</BuffList>
+    <BuffList>90011</BuffList>
+    <BuffList>90030</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10016" SkillName="寒冰护盾" SkillIcon="binshuangfashi_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="0" HitType="Self" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="6" Para="false" Para1="0" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="0" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>90046</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10017" SkillName="魔力冰球" SkillIcon="binshuangfashi_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="260" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10035</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10018" SkillName="冰霜尖刺" SkillIcon="binshuangfashi_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>90026</BuffList>
+    <BuffList>90003</BuffList>
+    <BuffList>90023</BuffList>
+    <BuffList>90006</BuffList>
+    <BuffList>90029</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10019" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10020" SkillName="直捣黄龙" SkillIcon="qishi_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="80" Para2="0" Para3="1.6" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="3" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10021" SkillName="跃翔之刺" SkillIcon="qishi_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10022" SkillName="飞轮斩" SkillIcon="qishi_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10023" SkillName="钻云枪" SkillIcon="qishi_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10.5" Para="true" Para1="130" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>10</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10024" SkillName="黑之魅" SkillIcon="qishi_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10025" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10035</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10026" SkillName="火焰炸药" SkillIcon="yuansushi_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>10060</HitedEffect>
+    <BuffList>90007</BuffList>
+    <BuffList>90012</BuffList>
+    <BuffList>90027</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10027" SkillName="火墙" SkillIcon="yuansushi_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="120" BpNeed="0" Guard="6" Para="false" Para1="150" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10035</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10028" SkillName="风震" SkillIcon="yuansushi_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10.5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10035</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10029" SkillName="炎爆术" SkillIcon="yuansushi_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10.5" Para="false" Para1="130" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10054</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10030" SkillName="台风" SkillIcon="yuansushi_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="10" HitType="SelectedEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10.5" Para="false" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10031" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10032" SkillName="神圣之手" SkillIcon="mushi_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>12</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10033" SkillName="十字审判" SkillIcon="mushi_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>11</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10034" SkillName="神圣十字" SkillIcon="mushi_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="150" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10035" SkillName="愈合" SkillIcon="mushi_4" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="3" HitType="ScaleFriend" AttRangeType="Circle" DamageNum="-1" AttRange="4.8" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="300" Para2="0" Para3="0" Para4="0" Para5="10065" SkillHitCount="0" Damagecoefficient1="0" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>1</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10036" SkillName="神之裁决" SkillIcon="mushi_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10037" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8.8" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10070</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10038" SkillName="水牢禁锢" SkillIcon="shuiwuzhe_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10070</HitedEffect>
+    <BuffList>90008</BuffList>
+    <BuffList>90013</BuffList>
+    <BuffList>90031</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10039" SkillName="水幕弹" SkillIcon="shuiwuzhe_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10070</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10040" SkillName="水龙吟" SkillIcon="shuiwuzhe_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="140" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10070</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10041" SkillName="螺旋水炮" SkillIcon="shuiwuzhe_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="220" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10070</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10042" SkillName="水龙卷" SkillIcon="shuiwuzhe_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10043" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10044" SkillName="暴力抓取" SkillIcon="yemanren_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="7" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="6.8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>13</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10045" SkillName="回旋斩杀" SkillIcon="yemanren_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="6.5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6.3" Angle="180" BpNeed="0" Guard="7" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10046" SkillName="翻滚劈砍" SkillIcon="yemanren_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10047" SkillName="狂野撞击" SkillIcon="yemanren_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="true" Para1="140" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10048" SkillName="屠杀之旋" SkillIcon="yemanren_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="7" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6.8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10049" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10050" SkillName="白虎抓" SkillIcon="baihuwang_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>14</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10051" SkillName="毁灭冲锋" SkillIcon="baihuwang_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10052" SkillName="碎金锤" SkillIcon="baihuwang_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10053" SkillName="凶猛打击" SkillIcon="baihuwang_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="180" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10054" SkillName="白虎咆哮" SkillIcon="baihuwang_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="7" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="true" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>11</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10055" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10102</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10056" SkillName="蛮力抱摔" SkillIcon="baiyuanwang_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>10</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10057" SkillName="金刚碎" SkillIcon="baiyuanwang_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10058" SkillName="巨猿轰炸" SkillIcon="baiyuanwang_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="140" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10059" SkillName="野蛮冲撞" SkillIcon="baiyuanwang_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="9" Para="true" Para1="140" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="3" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10060" SkillName="天崩地裂" SkillIcon="baiyuanwang_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="7" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6.8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10061" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10102</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10062" SkillName="摄魂笛音" SkillIcon="shiren_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="7.5" Angle="180" BpNeed="0" Guard="8" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10063" SkillName="天魂打击" SkillIcon="shiren_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="true" Para1="180" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10064" SkillName="极光" SkillIcon="shiren_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8.8" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="200" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>11</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10065" SkillName="音域爆破" SkillIcon="shiren_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="240" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>11</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10066" SkillName="异界天音" SkillIcon="shiren_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>11</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10067" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10102</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10068" SkillName="弦外之音" SkillIcon="tianlai_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="6.5" Angle="180" BpNeed="0" Guard="6" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>17</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10069" SkillName="摇滚电音" SkillIcon="tianlai_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="130" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10070" SkillName="撩音" SkillIcon="tianlai_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>11</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10071" SkillName="圣音之刃" SkillIcon="tianlai_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="220" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10072" SkillName="脉冲电音" SkillIcon="tianlai_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10073" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10074" SkillName="蝗虫尸爆" SkillIcon="shujing_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6.5" Angle="180" BpNeed="0" Guard="6" Para="false" Para1="80" Para2="1" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>10129</HitedEffect>
+    <BuffList>90014</BuffList>
+    <BuffList>90015</BuffList>
+    <BuffList>90018</BuffList>
+    <BuffList>90023</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10075" SkillName="荆棘之刺" SkillIcon="shujing_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="8.5" Para="false" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10076" SkillName="藤蔓袭击" SkillIcon="shujing_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="200" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10077" SkillName="地狱深渊" SkillIcon="shujing_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="240" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10078" SkillName="亡灵大军" SkillIcon="shujing_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10079" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10080" SkillName="盾震杀" SkillIcon="shengqishi_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>90020</BuffList>
+    <BuffList>90021</BuffList>
+    <BuffList>90024</BuffList>
+    <BuffList>90032</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10081" SkillName="冲锋刺刃" SkillIcon="shengqishi_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10082" SkillName="盾冲撞击" SkillIcon="shengqishi_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="1" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10142</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10083" SkillName="地裂斩" SkillIcon="shengqishi_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10084" SkillName="剑盾闪击" SkillIcon="shengqishi_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>9</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10085" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10150</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10086" SkillName="怒气暴打" SkillIcon="gedoujia_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>18</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10150</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10087" SkillName="百裂拳" SkillIcon="gedoujia_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5.5" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10088" SkillName="腹拳" SkillIcon="gedoujia_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="240" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10150</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10089" SkillName="瞬拳" SkillIcon="gedoujia_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>18</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10090" SkillName="拳神连击" SkillIcon="gedoujia_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="8.5" Para="true" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10156</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10091" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10092" SkillName="瞬影杀" SkillIcon="daoke_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>90033</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10093" SkillName="满月斩" SkillIcon="daoke_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10094" SkillName="飞月斩" SkillIcon="daoke_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="150" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10095" SkillName="月光波" SkillIcon="daoke_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="200" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="1" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10096" SkillName="红莲一闪" SkillIcon="daoke_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="3" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>19</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10097" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10098" SkillName="破空刺" SkillIcon="xiyangjianke_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="4" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10150</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10099" SkillName="冲锋刺" SkillIcon="xiyangjianke_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10150</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10100" SkillName="翔云刺" SkillIcon="xiyangjianke_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="140" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10150</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10101" SkillName="突刺连击" SkillIcon="xiyangjianke_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="240" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10102" SkillName="千刃星芒刺" SkillIcon="xiyangjianke_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="8.5" Para="true" Para1="400" Para2="0.8" Para3="1.5" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10156</HitedEffect>
+    <BuffList>90025</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10103" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10104" SkillName="飞空破碎" SkillIcon="kuangzhanshi_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10105" SkillName="熔岩炸弹" SkillIcon="kuangzhanshi_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="180" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="3" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>90034</BuffList>
+    <BuffList>90035</BuffList>
+    <BuffList>90045</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10106" SkillName="火焰旋风斩" SkillIcon="kuangzhanshi_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="240" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10107" SkillName="不屈意志" SkillIcon="kuangzhanshi_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedFriend" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>90036</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10108" SkillName="熔火神兵" SkillIcon="kuangzhanshi_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="8.5" Para="false" Para1="400" Para2="1" Para3="1.5" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>90037</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10109" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10110" SkillName="饭刚落" SkillIcon="renzhe_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>20</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10111" SkillName="翔鹤空斩" SkillIcon="renzhe_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="110" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10112" SkillName="毒蛇手里剑" SkillIcon="renzhe_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="130" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10113" SkillName="疾风斩" SkillIcon="renzhe_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="8.5" Para="true" Para1="225" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10114" SkillName="凤舞天岚" SkillIcon="renzhe_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="400" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="3" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10115" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10116" SkillName="螺旋藤蔓" SkillIcon="nvyao_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="8.5" Para="true" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="3" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>10</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10117" SkillName="秋叶飞刀" SkillIcon="nvyao_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10.5" Para="true" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="3" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>10</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10118" SkillName="荆棘乱舞" SkillIcon="nvyao_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6.5" Para="true" Para1="150" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10119" SkillName="能量光球" SkillIcon="nvyao_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="9" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="16" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="180" Para2="1" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <HitedEffect>10213</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10120" SkillName="荆棘圆舞阵" SkillIcon="nvyao_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="false" Para1="400" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>5</DamegeTypeList>
+    <HitedEffect>10035</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10121" SkillName="普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10122" SkillName="念力打击" SkillIcon="nianshushi_1" SkillType="AttackSkill" Skillpriority="3" Skillenergy="0" AttDis="4" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="true" Para1="80" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>9</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10123" SkillName="能量光束" SkillIcon="nianshushi_2" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="8.5" Para="false" Para1="120" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10124" SkillName="时间缓慢" SkillIcon="nianshushi_3" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="10.5" Para="true" Para1="160" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>2</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>90043</BuffList>
+    <BuffList>90044</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10125" SkillName="重力控制" SkillIcon="nianshushi_4" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="230" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="10126" SkillName="波动明王阵" SkillIcon="nianshushi_5" SkillType="SuperSkill" Skillpriority="3" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="9" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="400" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10035</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20001" SkillName="兽人战士普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20002" SkillName="鳄鱼王普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="0" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10030</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20003" SkillName="鳄鱼王攻击技能" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6.5" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>9</DamegeTypeList>
+    <HitedEffect>10103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20004" SkillName="鳄鱼王普通技能" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>2</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20005" SkillName="兽人头领技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="500" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20006" SkillName="兽人头领技能攻击1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="180" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20007" SkillName="狼王普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20008" SkillName="狼王攻击技能" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="7" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="1" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20009" SkillName="狼王霸体技能" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="9" Para="false" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20010" SkillName="小田鼠普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20011" SkillName="野猪普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15008</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20012" SkillName="松鼠普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20013" SkillName="松鼠技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="1" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20014" SkillName="哥布林普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20015" SkillName="鼠王普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="2" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20016" SkillName="鼠王攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6.5" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="180" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20017" SkillName="鼠王技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="3" Angle="180" BpNeed="0" Guard="7" Para="true" Para1="500" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20018" SkillName="树怪普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20019" SkillName="树怪技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>15023</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20020" SkillName="食人花普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20021" SkillName="树魔普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20022" SkillName="树魔技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="4" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20023" SkillName="丛林巨人普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20024" SkillName="丛林巨人攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="1" AttDis="4" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="4" Para="false" Para1="180" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20025" SkillName="丛林巨人王技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="2" AttDis="6" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="5.5" Para="false" Para1="500" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20026" SkillName="野猪人普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20027" SkillName="野猪人技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="3" AttDis="4" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20028" SkillName="野猪人技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="120" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20029" SkillName="兽人战士技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="4" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20030" SkillName="兽人弓箭手普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20031" SkillName="兽人弓箭手技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>15040</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20032" SkillName="兽人弓箭手技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="6.5" Para="true" Para1="120" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="1" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20033" SkillName="兽人头领技能攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="3.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20034" SkillName="猪人头领普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20035" SkillName="猪人头领攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="4" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="3.5" Para="true" Para1="180" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20036" SkillName="猪人头领技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="500" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20037" SkillName="瘴气羽蛇普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20038" SkillName="毒蛙普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15023</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20039" SkillName="飞蟹普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20040" SkillName="河童普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20041" SkillName="河童技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20042" SkillName="鳍冠海象普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10070</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20043" SkillName="鳍冠海象技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="3.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20044" SkillName="火巨人普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20045" SkillName="火巨人攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="4" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="3.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20046" SkillName="火巨人技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="1" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20047" SkillName="冰巨人普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20048" SkillName="冰巨人攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>2</DamegeTypeList>
+    <HitedEffect>15068</HitedEffect>
+    <BuffList>90003</BuffList>
+    <BuffList>90027</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20049" SkillName="冰巨人技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>21</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20050" SkillName="石巨人普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20051" SkillName="石巨人攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.7" Para="false" Para1="180" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20052" SkillName="石巨人技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="500" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20053" SkillName="青蛙普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20054" SkillName="环尾猴普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20055" SkillName="松鼠头领普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20056" SkillName="松鼠头领技能攻击" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="3" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20057" SkillName="五彩虫普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20058" SkillName="五彩虫普通攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>22</DamegeTypeList>
+    <HitedEffect>15080</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20059" SkillName="音波怪普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20060" SkillName="石角虫普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20061" SkillName="蚁后普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20062" SkillName="蚁后攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.7" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>15089</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20063" SkillName="蚁后技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20064" SkillName="食花虫普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20065" SkillName="食花兽普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20066" SkillName="食花兽攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.7" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20067" SkillName="食花兽技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20068" SkillName="古钟魔普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20069" SkillName="古钟魔技能攻击1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="3" Angle="180" BpNeed="0" Guard="7" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="1" Damagecoefficient3="1" Desc="1">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20070" SkillName="古钟魔技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20071" SkillName="木乃伊普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20072" SkillName="木乃伊技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20073" SkillName="独角鳄普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20074" SkillName="独角鳄技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20075" SkillName="机甲守卫神普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20076" SkillName="机甲守卫神攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="false" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20077" SkillName="机甲守卫神技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.8" Para="true" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20078" SkillName="雷电虫普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20079" SkillName="护卫灵普通技能" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="4" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="4" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20080" SkillName="护卫灵攻击技能1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Fan" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="6" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20081" SkillName="护卫灵技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="10" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="10" Angle="180" BpNeed="0" Guard="9.5" Para="true" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20082" SkillName="白雾怪普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20083" SkillName="浮游怪普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20084" SkillName="浮游怪技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20085" SkillName="虚空恐魔普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20086" SkillName="虚空恐魔技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20087" SkillName="虚空恐魔技能攻击3" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20088" SkillName="黑暗守卫普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20089" SkillName="黑暗恶灵普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20090" SkillName="黑暗恶灵技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20091" SkillName="黑暗恶灵技能攻击3" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20092" SkillName="黑暗魔灵普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20093" SkillName="黑暗魔灵技能攻击3" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20094" SkillName="黑暗魔灵技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20095" SkillName="罪恶之眼普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15136</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20096" SkillName="罪恶之眼技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="4" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20097" SkillName="渊魂怪普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20098" SkillName="渊魂怪技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20099" SkillName="天渊魔女普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20100" SkillName="天渊魔女技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="6" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="6" Angle="180" BpNeed="0" Guard="5.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20101" SkillName="天渊魔女普通攻击1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20102" SkillName="雷精普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15108</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20103" SkillName="雷精技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20104" SkillName="暗魔BOSS普通攻击1" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20105" SkillName="暗魔BOSS技能攻击1" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="true" Para1="100" Para2="0" Para3="1" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>4</DamegeTypeList>
+    <HitedEffect>15103</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20106" SkillName="暗魔BOSS技能攻击2" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="2" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20107" SkillName="暗魔BOSS技能攻击3" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="3" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <DamegeTypeList>16</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20108" SkillName="暗魔BOSS技能攻击4" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="8" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="4" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>9</DamegeTypeList>
+    <HitedEffect>15147</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20109" SkillName="暗魔BOSS技能攻击5" SkillIcon="空" SkillType="AttackSkill" Skillpriority="2" Skillenergy="0" AttDis="5" HitType="ScaleEnemy" AttRangeType="Circle" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="true" Para1="100" Para2="0" Para3="5" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="2" Damagecoefficient3="3" Desc="2">
+    <DamegeTypeList>0</DamegeTypeList>
+    <DamegeTypeList>19</DamegeTypeList>
+    <DamegeTypeList>7</DamegeTypeList>
+    <HitedEffect>10017</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20110" SkillName="田鼠怪普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="5" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="5" Angle="180" BpNeed="0" Guard="4.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+  <AllSkillList Id="20111" SkillName="环尾猴王普通攻击" SkillIcon="空" SkillType="NormalSkill" Skillpriority="0" Skillenergy="0" AttDis="8" HitType="SelectedEnemy" AttRangeType="None" DamageNum="-1" AttRange="8" Angle="180" BpNeed="0" Guard="7.5" Para="false" Para1="100" Para2="0" Para3="0" Para4="0" Para5="0" SkillHitCount="0" Damagecoefficient1="1" Damagecoefficient2="0" Damagecoefficient3="0" Desc="0">
+    <DamegeTypeList>0</DamegeTypeList>
+    <HitedEffect>0</HitedEffect>
+    <BuffList>0</BuffList>
+  </AllSkillList>
+</SkillData>
