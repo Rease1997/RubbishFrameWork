@@ -1,6 +1,8 @@
 version: 2
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/BagAndSelectSheet.tpsheet
+- Assets/GameData/ScriptAtlas/Atlas/Common/CommonSheet.tpsheet
 - Assets/GameData/ScriptAtlas/Atlas/UI1.0/Common.tpsheet
 - Assets/GameData/ScriptAtlas/Atlas/UI1.0/GameListPanel.tpsheet
 - Assets/GameData/ScriptAtlas/Atlas/UI1.0/GamePanel.tpsheet
@@ -12,6 +14,8 @@ tpsheetFileNames:
 - Assets/GameData/ScriptAtlas/Atlas/UI1.0/SharePanel.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/GameData/ScriptAtlas/Atlas/BagAndSelectAtlas.png
+- Assets/GameData/ScriptAtlas/Atlas/Common/CommonAtlas.png
 - Assets/GameData/ScriptAtlas/Atlas/UI1.0/Common.png
 - Assets/GameData/ScriptAtlas/Atlas/UI1.0/GameListPanel.png
 - Assets/GameData/ScriptAtlas/Atlas/UI1.0/GamePanel.png
@@ -23,6 +27,8 @@ textureFileNames:
 - Assets/GameData/ScriptAtlas/Atlas/UI1.0/SharePanel.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
 - 
 - 
 - 
