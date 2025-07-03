@@ -11,7 +11,6 @@ public class RFrameWork : UnitySingleton<RFrameWork>
     public override void Awake()
     {
         base.Awake();
-        DontDestroyOnLoad(gameObject);
         ResourceManager.Instance.m_LoadFormAssetBundle = useHotFix;
         ResourceManager.Instance.Init(this);
         //AssetBundleManager.Instance.LoadAssetBundleConfig();
